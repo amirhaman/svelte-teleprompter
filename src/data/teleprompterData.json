@@ -1,0 +1,20 @@
+{
+  "telepromptersData" : [
+    {
+      "id": 1,
+      "text": "",
+      "title": "Teleprompter One"
+      
+    },
+    {
+      "id": 2,
+      "text": "",
+      "title": "Teleprompter Two"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "title": "Teleprompter Three"
+    }
+  ]
+}
